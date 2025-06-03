@@ -1,0 +1,1 @@
+Cmd es el sistema que nos permite ejecutar diferentres comandos 
